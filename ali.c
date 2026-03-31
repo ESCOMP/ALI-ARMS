@@ -30,7 +30,7 @@ int ali_(	float	*H,
  VIBLEVEL	*v_level;
 
  BAND_CVT	*cvt_band;
- PBAND		pcvt_band;
+ PBAND_CVT	pcvt_band;
 
  BAND_CVV	*cvv_band;
 
